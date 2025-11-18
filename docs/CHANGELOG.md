@@ -61,3 +61,6 @@ Ringkasan perubahan besar per milestone.
 
 ## 2025-11-18
 - Updated main README with latest project structure (scientific-calculator in milestone-1-foundation)
+
+## 2025-11-18
+- Added context.md with complete Fullstack AI Engineer roadmap and learning modules
