@@ -17,7 +17,6 @@ This repository documents my journey toward becoming a **Fullstack AI Engineer**
 ## 📚 Daftar Isi | Table of Contents
 - [Deskripsi | Description](#📌-deskripsi--description)
 - [Milestone & Proyek | Milestones & Projects](#🪜-milestone--proyek--milestones--projects)
-- [Checklist Progres | Progress Checklist](#✅-checklist-progres--progress-checklist)
 - [Struktur Folder | Folder Structure](#📁-struktur-folder--folder-structure)
 - [Dokumentasi Tambahan | Additional Docs](#📚-dokumentasi-tambahan--additional-docs)
 - [Kontributor | Contributor](#👤-kontributor--contributor)
@@ -48,6 +47,7 @@ This roadmap is divided into 5 milestones, each containing:
 ### Milestone 1: Fondasi Teknis | Technical Foundation
 - 📘 [README](milestone-1-foundation/README.md)
 - 📄 [Catatan Belajar | Learning Notes](milestone-1-foundation/notes-foundation.md)
+- 🧮 [Scientific Calculator Project](milestone-1-foundation/scientific-calculator/README.md)
 
 ### Milestone 2: Core AI & Machine Learning
 - 📘 [README](milestone-2-core-ml/README.md)
@@ -72,7 +72,24 @@ This roadmap is divided into 5 milestones, each containing:
 📦 fullstack-ai-edy-zulyza  
 ├── milestone-1-foundation/  
 │   ├── README.md  
-│   └── notes-foundation.md  
+│   ├── notes-foundation.md  
+│   └── scientific-calculator/  
+│       ├── src/  
+│       ├── tests/  
+│       ├── docs/  
+│       ├── scripts/  
+│       ├── config/  
+│       ├── assets/  
+│       ├── data/  
+│       ├── logs/  
+│       ├── README.md  
+│       ├── requirements.txt  
+│       ├── setup.py  
+│       ├── pyproject.toml  
+│       ├── MANIFEST.in  
+│       ├── .gitignore  
+│       ├── .env.example  
+│       └── config.yaml  
 ├── milestone-2-core-ml/  
 │   ├── README.md  
 │   └── notes-core-ml.md  
@@ -98,11 +115,10 @@ This roadmap is divided into 5 milestones, each containing:
 - 📖 [Glossary](docs/glossary.md)  
 - 🔗 [Resources](docs/resources.md)  
 - 🗂️ [Portfolio Index](docs/portfolio-index.md)  
-- 📝 [Changelog](docs/CHANGELOG.md)
+- 📝 [Changelog](docs/CHANGELOG.md)  
 - ✅ [Roadmap Checklist](docs/roadmap-checklist.md)
+
 ---
-
-
 
 ## 👤 Kontributor | Contributor
 Nama | Name: Edy Zulyza  
@@ -122,6 +138,4 @@ Build an end-to-end portfolio ready to showcase to clients or recruiters as a Fu
 📣 **EN:** If you're interested in following this roadmap, feel free to fork this repo and start from milestone 1!
 
 💡 **Contributions welcome!** Feel free to open issues or submit pull requests.
-
-
 
