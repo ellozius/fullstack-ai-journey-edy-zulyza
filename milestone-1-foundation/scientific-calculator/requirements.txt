@@ -1,0 +1,11 @@
+# Scientific Calculator Dependencies
+
+# Core Python (no external dependencies required initially)
+# Add dependencies as needed during development
+
+# Potential future dependencies:
+# numpy>=1.21.0
+# scipy>=1.7.0
+# pytest>=6.0
+# black>=21.0
+# flake8>=3.9
