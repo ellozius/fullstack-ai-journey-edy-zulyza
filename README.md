@@ -8,6 +8,8 @@ This repository documents my journey toward becoming a **Fullstack AI Engineer**
 
 ![GitHub repo size](https://img.shields.io/github/repo-size/ellozius/fullstack-ai-edy-zulyza)
 ![GitHub last commit](https://img.shields.io/github/last-commit/ellozius/fullstack-ai-edy-zulyza)
+![Language](https://img.shields.io/badge/lang-ID%2FEN-blue)
+![Status](https://img.shields.io/badge/status-learning-green)
 
 ---
 
@@ -16,6 +18,7 @@ This repository documents my journey toward becoming a **Fullstack AI Engineer**
 - [Milestone & Proyek | Milestones & Projects](#milestone--proyek--milestones--projects)
 - [Checklist Progres | Progress Checklist](#checklist-progres--progress-checklist)
 - [Struktur Folder | Folder Structure](#struktur-folder--folder-structure)
+- [Dokumentasi Tambahan | Additional Docs](#dokumentasi-tambahan--additional-docs)
 - [Kontributor | Contributor](#kontributor--contributor)
 - [Tujuan Akhir | Final Goal](#tujuan-akhir--final-goal)
 
@@ -42,18 +45,23 @@ This roadmap is divided into 5 milestones, each containing:
 ## 🪜 Milestone & Proyek | Milestones & Projects
 
 ### Milestone 1: Fondasi Teknis | Technical Foundation
+- 📘 [README](milestone-1-foundation/README.md)
 - 📄 [Catatan Belajar | Learning Notes](milestone-1-foundation/notes-foundation.md)
 
 ### Milestone 2: Core AI & Machine Learning
+- 📘 [README](milestone-2-core-ml/README.md)
 - 📄 [Catatan Belajar | Learning Notes](milestone-2-core-ml/notes-core-ml.md)
 
 ### Milestone 3: MLOps & Data Engineering
+- 📘 [README](milestone-3-mlops-dataeng/README.md)
 - 📄 [Catatan Belajar | Learning Notes](milestone-3-mlops-dataeng/notes-mlops.md)
 
 ### Milestone 4: Fullstack Integration
+- 📘 [README](milestone-4-fullstack/README.md)
 - 📄 [Catatan Belajar | Learning Notes](milestone-4-fullstack/notes-fullstack.md)
 
 ### Milestone 5: Freelance Readiness
+- 📘 [README](milestone-5-freelance-ready/README.md)
 - 📄 [Catatan Belajar | Learning Notes](milestone-5-freelance-ready/notes-freelance.md)
 
 ---
@@ -75,17 +83,34 @@ See [roadmap-checklist.md](docs/roadmap-checklist.md) to track progress across m
 
 📦 fullstack-ai-edy-zulyza  
 ├── milestone-1-foundation/  
+│   ├── README.md  
 │   └── notes-foundation.md  
 ├── milestone-2-core-ml/  
+│   ├── README.md  
 │   └── notes-core-ml.md  
 ├── milestone-3-mlops-dataeng/  
+│   ├── README.md  
 │   └── notes-mlops.md  
 ├── milestone-4-fullstack/  
+│   ├── README.md  
 │   └── notes-fullstack.md  
 ├── milestone-5-freelance-ready/  
+│   ├── README.md  
 │   └── notes-freelance.md  
 └── docs/  
+    ├── glossary.md  
+    ├── resources.md  
+    ├── portfolio-index.md  
+    ├── CHANGELOG.md  
     └── roadmap-checklist.md  
+
+---
+
+## 📚 Dokumentasi Tambahan | Additional Docs
+- 📖 [Glossary](docs/glossary.md)  
+- 🔗 [Resources](docs/resources.md)  
+- 🗂️ [Portfolio Index](docs/portfolio-index.md)  
+- 📝 [Changelog](docs/CHANGELOG.md)
 
 ---
 
