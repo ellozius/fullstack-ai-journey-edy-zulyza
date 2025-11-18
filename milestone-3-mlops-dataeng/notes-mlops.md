@@ -4,16 +4,38 @@
 - ID: Kuasai pipeline ML, deployment, dan data engineering dasar.
 - EN: Master ML pipelines, deployment, and basic data engineering.
 
+---
+
 ## 📚 Learning Notes
-(Tulis catatan belajar di sini...)
+
+🧩 Tahap 1: Docker basics  
+🧩 Tahap 2: CI/CD setup  
+🧩 Tahap 3: Data pipeline creation
+
+---
 
 ## 🛠️ Portfolio Project
-(Tulis proyek di sini...)
+**📊 Proyek | Project:**  
+- ID: Deploy model ML dengan Docker & CI/CD  
+- EN: Deploy ML model with Docker & CI/CD  
+
+**📝 Deskripsi | Description:**  
+- ID: Membuat pipeline data dan workflow deployment otomatis.  
+- EN: Create data pipeline and automated deployment workflow.  
+
+**🔗 Status | Status:**  
+- ID: Belum selesai dan belum terdokumentasi di repo.  
+- EN: Not yet completed and not documented in the repository.
+
+---
 
 ## 🔍 Challenges & Reflections
-(Tulis tantangan & refleksi di sini...)
+📌 ID: Akan diisi bertahap setelah menjalani proses pembelajaran.  
+📌 EN: Will be filled gradually after going through the learning process.
+
+---
 
 ## ✅ Progress Checklist
-- [ ] Docker basics
-- [ ] CI/CD setup
-- [ ] Data pipeline creation
+- [ ] Docker basics  
+- [ ] CI/CD setup  
+- [ ] Data pipeline creation  
