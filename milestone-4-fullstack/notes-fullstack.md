@@ -39,3 +39,5 @@
 - [ ] REST API basics  
 - [ ] Frontend-backend integration  
 - [ ] AI model integration  
+
+<!-- update commit message milestone-4 -->
