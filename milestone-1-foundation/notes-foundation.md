@@ -47,3 +47,5 @@
 - [ ] Python dasar  
 - [ ] Git & GitHub workflow  
 - [ ] Konsep AI/ML fundamental  
+
+<!-- update commit message milestone-1 -->
