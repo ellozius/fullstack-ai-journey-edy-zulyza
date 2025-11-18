@@ -1,7 +1,7 @@
 # 🚀 Fullstack AI Engineer Roadmap & Learning Journal
 
 📌 **ID (Bahasa Indonesia):**  
-Repo ini adalah dokumentasi perjalanan saya dalam menempuh roadmap menjadi **Fullstack AI Engineer**. Setiap milestone berisi capaian teknis, proyek portofolio, dan catatan pembelajaran. Tujuan akhir: membangun portofolio end-to-end yang siap dipamerkan ke klien atau perekrut.
+Repo ini adalah dokumentasi perjalanan saya dalam menempuh roadmap menjadi **Fullstack AI Engineer**. Setiap milestone berisi capaian teknis, proyek portofolio, dan catatan pembelajaran. Tujuan akhir: membangun portofolio end-to-end yang siap ditampilkan ke klien atau perekrut.
 
 📌 **EN (English):**  
 This repository documents my journey toward becoming a **Fullstack AI Engineer**. Each milestone contains technical goals, portfolio projects, and learning notes. The final goal: build an end-to-end portfolio ready to showcase to clients or recruiters.
@@ -67,16 +67,6 @@ This roadmap is divided into 5 milestones, each containing:
 
 ---
 
-## ✅ Checklist Progres | Progress Checklist
-
-- [ ] Milestone 1: Fondasi Teknis  
-- [ ] Milestone 2: Core AI & ML  
-- [ ] Milestone 3: MLOps & Data Engineering  
-- [ ] Milestone 4: Fullstack Integration  
-- [ ] Milestone 5: Freelance Readiness  
-
----
-
 ## 📁 Struktur Folder | Folder Structure
 
 📦 fullstack-ai-edy-zulyza  
@@ -121,7 +111,7 @@ Role: Fullstack AI Engineer (in progress)
 ## 🎯 Tujuan Akhir | Final Goal
 
 **ID:**  
-Membangun portofolio end-to-end yang siap dipamerkan ke klien atau perekrut sebagai Fullstack AI Engineer.
+Membangun portofolio end-to-end yang siap ditampilkan ke klien atau perekrut sebagai Fullstack AI Engineer.
 
 **EN:**  
 Build an end-to-end portfolio ready to showcase to clients or recruiters as a Fullstack AI Engineer.
@@ -130,3 +120,4 @@ Build an end-to-end portfolio ready to showcase to clients or recruiters as a Fu
 📣 **EN:** If you're interested in following this roadmap, feel free to fork this repo and start from milestone 1!
 
 💡 **Contributions welcome!** Feel free to open issues or submit pull requests.
+
