@@ -39,3 +39,5 @@
 - [ ] Portfolio website  
 - [ ] Freelance platform profile  
 - [ ] Client proposal draft  
+
+<!-- update commit message milestone-5 -->
