@@ -3,9 +3,14 @@
 # Core Python (no external dependencies required initially)
 # Add dependencies as needed during development
 
-# Potential future dependencies:
-# numpy>=1.21.0
-# scipy>=1.7.0
-# pytest>=6.0
-# black>=21.0
-# flake8>=3.9
+numpy>=2.3.5 
+scipy>=1.16.3
+pytest>=9.0.1
+black>=25.11.0
+flake8>=7.3.0
+pydantic>=2.12.4
+click>=8.3.1
+rich>=14.2.0
+mypy>=1.18.2
+coverage>=7.11.3
+
